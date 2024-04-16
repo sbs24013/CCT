@@ -3,3 +3,4 @@
 .conda
 cache
 tmp
+datasets
