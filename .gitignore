@@ -4,3 +4,4 @@
 cache
 tmp
 datasets
+*.csv
