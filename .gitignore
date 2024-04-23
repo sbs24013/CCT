@@ -4,4 +4,6 @@
 cache
 tmp
 datasets
+datasets/*
+Data Preparation & Visualisation/datasets
 *.csv
